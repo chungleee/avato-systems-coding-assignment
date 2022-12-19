@@ -2,7 +2,7 @@
 
 Write an HTML5 page that meets the following requirements:
 
-    - [] Raw only: Uses only HTML, CSS and JavaScript. External libraries like JQuery, React and Angular are not allowed for this exercise.
+    - [x] Raw only: Uses only HTML, CSS and JavaScript. External libraries like JQuery, React and Angular are not allowed for this exercise.
 
     Is a valid HTML5 page that is fluid (stretches with browser resizing), and contains:
 
