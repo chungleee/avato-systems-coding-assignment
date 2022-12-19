@@ -10,3 +10,22 @@ ol,
 ul {
 	list-style: none;
 }
+
+#toolbar {
+	padding: 0 1rem;
+	height: 3.5rem;
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+#toolbar button {
+	background: unset;
+	cursor: pointer;
+	border: 1px solid black;
+	height: 3em;
+	width: 6em;
+}

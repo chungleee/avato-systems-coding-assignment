@@ -6,7 +6,7 @@ Write an HTML5 page that meets the following requirements:
 
     Is a valid HTML5 page that is fluid (stretches with browser resizing), and contains:
 
-    - [] toolbar that is snapped to the bottom of the browser spanning the entire width, containing four rectangles that act as buttons – two snapped to the left and two snapped to the right of the toolbar
+    - [x] toolbar that is snapped to the bottom of the browser spanning the entire width, containing four rectangles that act as buttons – two snapped to the left and two snapped to the right of the toolbar
 
     - []A form that floats in the center of the screen, even as the browser is resized
 
